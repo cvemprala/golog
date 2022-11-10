@@ -1,4 +1,4 @@
-module golog
+module github.com/cvemprala/golog
 
 go 1.18
 
